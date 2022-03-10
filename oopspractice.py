@@ -35,7 +35,7 @@ class likhi:
 class Pradeep(likhi):
     def Manager(self):
         super().Manager()
-        print("Pradeep is also content manager")
+        print("Pradeep is content manager")
 
 a=Pradeep()
 a.Manager()
